@@ -1,0 +1,15 @@
+ul {
+  font-size: 14px;
+  color: blue;
+}
+
+ol {
+  font-size: 18px;
+  color: blue;
+}
+
+/*# sourceMappingURL=variables.css.map */
+/* sass --watch variables.scss:variables.css  
+   sass variables.scss:variables.css
+
+*/
